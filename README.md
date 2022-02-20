@@ -3,6 +3,8 @@
 <!--
 **YellowYam/YellowYam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://www.learnenough.com/certificates/CodyS"><img src="https://www.learnenough.com/certificates/CodyS/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
